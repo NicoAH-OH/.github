@@ -3,6 +3,7 @@ name: User story template
 about: This template provides a basic structure for user story issues.
 
 ---
+{ID}
 
 # User story
 Als ROLLE möchte ich DAS TUN um ZIEL
